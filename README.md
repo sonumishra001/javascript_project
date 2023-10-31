@@ -1,5 +1,5 @@
-## javascript_project
+## javascript_projects
 #live link:
 ```
-  https://sonumishra001.github.io/javascript_project/
+ [link]: https://sonumishra001.github.io/javascript_project/
 ```
