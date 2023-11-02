@@ -46,6 +46,7 @@ h1 {
   color: blueviolet;
   text-decoration: underline;
   word-spacing: 5px;
+  text-align: center;
 }
 
 .projects {
@@ -53,10 +54,7 @@ h1 {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-<<<<<<< HEAD
   
-=======
->>>>>>> efe293261de2ee403fcd96df807c06b49e2a8d0b
 }
 
 .project-link {
@@ -72,18 +70,9 @@ h1 {
 
 .project-link:hover{
 
-<<<<<<< HEAD
   /* width: 350px;
   height: 50px; */
   text-align: center;
   color: aqua;
   zoom: 110%;
 }
-=======
-/*   width: 350px;
-  height: 50px; */
-  zoom: 110%
-  text-align: center;
-  color: aqua;
-}
->>>>>>> efe293261de2ee403fcd96df807c06b49e2a8d0b
