@@ -47,6 +47,10 @@ h1 {
   text-decoration: underline;
   word-spacing: 5px;
   text-align: center;
+<<<<<<< HEAD
+=======
+
+>>>>>>> eed0fb46f0fe616895b8247eb870271c0bf7b0bb
 }
 
 .projects {
@@ -54,7 +58,10 @@ h1 {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+<<<<<<< HEAD
   
+=======
+>>>>>>> eed0fb46f0fe616895b8247eb870271c0bf7b0bb
 }
 
 .project-link {
@@ -69,10 +76,18 @@ h1 {
 }
 
 .project-link:hover{
+<<<<<<< HEAD
 
+=======
+>>>>>>> eed0fb46f0fe616895b8247eb870271c0bf7b0bb
   /* width: 350px;
   height: 50px; */
   text-align: center;
   color: aqua;
   zoom: 110%;
+<<<<<<< HEAD
 }
+=======
+}
+
+>>>>>>> eed0fb46f0fe616895b8247eb870271c0bf7b0bb
