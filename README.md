@@ -1,4 +1,4 @@
-## [CLICK HERE TO OPEN THE LIVE PAGE]((https://sonumishra001.github.io/javascript_project/))
+## [CLICK HERE] (https://sonumishra001.github.io/javascript_project/) TO OPEN THE LIVE PAGE]
 ```
 (https://sonumishra001.github.io/javascript_project/)
 ```
